@@ -614,7 +614,7 @@ export default function App () {
 
               <Spacer />
 
-              <Box ml={-540} position='absolute' top={100}>
+              <Box ml={-540} position='absolute' top={42}>
                 <Carousel
                   slideIndex={slideIndex}
                   cellAlign="center"
